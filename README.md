@@ -42,12 +42,16 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Future Features
 
-- [x] Work on app styling.
+- ~~Work on app styling.~~
 
-- [x] Several Languages Translation options.
+- ~~Several Languages Translation options.~~
 
-- [ ] Add a light/dark theme button switcher.
+- ~~Add a light/dark theme button switcher.~~
 
-- [ ] Make a copy text button.
+- ~~Make a copy text button.~~
 
-- [ ] Load animations.
+- Load animations.
+
+# Contributors
+
+- [Kamer Elciyar](https://github.com/kamer)
